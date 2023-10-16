@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/E-LEARNING-PORTAL/static/css/main.dc1d34b1.css",
+    "main.js": "/E-LEARNING-PORTAL/static/js/main.b69b4f82.js",
+    "static/js/787.4a0db5d8.chunk.js": "/E-LEARNING-PORTAL/static/js/787.4a0db5d8.chunk.js",
+    "static/media/VID_20190416_155452.mp4": "/E-LEARNING-PORTAL/static/media/VID_20190416_155452.f2fef01f666eef40f9a8.mp4",
+    "static/media/Module 12.pdf": "/E-LEARNING-PORTAL/static/media/Module 12.76fe2ebacbd160254db0.pdf",
+    "static/media/Module 10.pdf": "/E-LEARNING-PORTAL/static/media/Module 10.50fe2a50b6f5dc49a310.pdf",
+    "static/media/Module 7.pdf": "/E-LEARNING-PORTAL/static/media/Module 7.e2b34926d4bbdcc683f7.pdf",
+    "static/media/Module 6.pdf": "/E-LEARNING-PORTAL/static/media/Module 6.d73bbab2905099b3cf1e.pdf",
+    "static/media/Module 3.pdf": "/E-LEARNING-PORTAL/static/media/Module 3.10400862ff63681b6eba.pdf",
+    "static/media/Module 11.pdf": "/E-LEARNING-PORTAL/static/media/Module 11.f2cdead6ec309e8a1728.pdf",
+    "static/media/Module 8.pdf": "/E-LEARNING-PORTAL/static/media/Module 8.09101cbee027ff598eb3.pdf",
+    "static/media/Module 2.pdf": "/E-LEARNING-PORTAL/static/media/Module 2.6608fbe01bb549ca6bc7.pdf",
+    "static/media/Module 9.pdf": "/E-LEARNING-PORTAL/static/media/Module 9.6fff22f2d9ef39e3f9ed.pdf",
+    "static/media/SQL NOTES.pdf": "/E-LEARNING-PORTAL/static/media/SQL NOTES.89aaa9f52187737575a9.pdf",
+    "static/media/Module 4.pdf": "/E-LEARNING-PORTAL/static/media/Module 4.6af50c54dc51fd20acb0.pdf",
+    "static/media/images.png": "/E-LEARNING-PORTAL/static/media/images.0ff2bc3eb7e53eaf0f76.png",
+    "static/media/Background (1).png": "/E-LEARNING-PORTAL/static/media/Background (1).fe55775c63bc7ce8f769.png",
+    "static/media/Module 13.pdf": "/E-LEARNING-PORTAL/static/media/Module 13.cb1c5a12db1b70eb5b56.pdf",
+    "static/media/Module 5.pdf": "/E-LEARNING-PORTAL/static/media/Module 5.c83c6c3f1b1ca2bffc90.pdf",
+    "static/media/FontsFree-Net-SFProDisplay-Semibold.ttf": "/E-LEARNING-PORTAL/static/media/FontsFree-Net-SFProDisplay-Semibold.e563de5c65c7d63f04e7.ttf",
+    "static/media/SFPRODISPLAYREGULAR.OTF": "/E-LEARNING-PORTAL/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
+    "static/media/Frame 7.png": "/E-LEARNING-PORTAL/static/media/Frame 7.1b3e6b1216508be5500b.png",
+    "static/media/CRM2.png": "/E-LEARNING-PORTAL/static/media/CRM2.4119467c15121bf4ff69.png",
+    "static/media/CRM1.png": "/E-LEARNING-PORTAL/static/media/CRM1.d5135efb11cfeba13994.png",
+    "static/media/one.jpg": "/E-LEARNING-PORTAL/static/media/one.595c5f33fea7d42589a8.jpg",
+    "static/media/g8.png": "/E-LEARNING-PORTAL/static/media/g8.0a878255bcba9554e318.png",
+    "static/media/building-business-company-logo-vector-19953138.jpg": "/E-LEARNING-PORTAL/static/media/building-business-company-logo-vector-19953138.37d74fdbc6fadc3699b0.jpg",
+    "index.html": "/E-LEARNING-PORTAL/index.html",
+    "main.dc1d34b1.css.map": "/E-LEARNING-PORTAL/static/css/main.dc1d34b1.css.map",
+    "main.b69b4f82.js.map": "/E-LEARNING-PORTAL/static/js/main.b69b4f82.js.map",
+    "787.4a0db5d8.chunk.js.map": "/E-LEARNING-PORTAL/static/js/787.4a0db5d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1d34b1.css",
+    "static/js/main.b69b4f82.js"
+  ]
+}
