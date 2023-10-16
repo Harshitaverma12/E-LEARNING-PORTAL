@@ -34,6 +34,7 @@ function App() {
           />
           <Route exact path="/signUp" element={<SignUp />} />
           <Route exact path="/first" element={<FirstPageContent />} />
+          <Route exact path="/" element={<Login />} />
         </Routes>
       </Router>
     </>
