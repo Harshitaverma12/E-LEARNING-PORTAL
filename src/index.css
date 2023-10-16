@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "SF Pro";
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("./Font/FontsFree-Net-SFProDisplay-Semibold.ttf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("./Font/SFPRODISPLAYREGULAR.OTF") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Add more @font-face rules for different weights and styles if necessary */
